@@ -1,0 +1,8 @@
+/wp-admin/
+/wp-includes/
+/uploads/
+/node_modules/
+/vendor/
+*.log
+*.DS_Store
+.env
